@@ -1,0 +1,82 @@
+{
+    "get": "coachs",
+    "parameters": {
+        "id": "276"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "id": 276,
+            "name": "L. Bovaglio",
+            "firstname": "Lucas Alfredo",
+            "lastname": "Bovaglio",
+            "age": 45,
+            "birth": {
+                "date": "1979-04-19",
+                "place": "Rafaela",
+                "country": "Argentina"
+            },
+            "nationality": "Argentina",
+            "height": "183 cm",
+            "weight": "80 kg",
+            "photo": "https:\/\/media.api-sports.io\/football\/coachs\/276.png",
+            "team": {
+                "id": 1174,
+                "name": "Club Guaran\u00ed",
+                "logo": "https:\/\/media.api-sports.io\/football\/teams\/1174.png"
+            },
+            "career": [
+                {
+                    "team": {
+                        "id": 1174,
+                        "name": "Club Guaran\u00ed",
+                        "logo": "https:\/\/media.api-sports.io\/football\/teams\/1174.png"
+                    },
+                    "start": "2023-12-01",
+                    "end": null
+                },
+                {
+                    "team": {
+                        "id": 478,
+                        "name": "Instituto",
+                        "logo": "https:\/\/media.api-sports.io\/football\/teams\/478.png"
+                    },
+                    "start": "2021-12-01",
+                    "end": "2023-06-01"
+                },
+                {
+                    "team": {
+                        "id": 469,
+                        "name": "Deportivo Mor\u00f3n",
+                        "logo": "https:\/\/media.api-sports.io\/football\/teams\/469.png"
+                    },
+                    "start": "2021-01-01",
+                    "end": "2021-11-01"
+                },
+                {
+                    "team": {
+                        "id": 481,
+                        "name": "Villa D\u00e1lmine",
+                        "logo": "https:\/\/media.api-sports.io\/football\/teams\/481.png"
+                    },
+                    "start": "2019-05-01",
+                    "end": "2020-03-01"
+                },
+                {
+                    "team": {
+                        "id": 465,
+                        "name": "Atl\u00e9tico Rafaela",
+                        "logo": "https:\/\/media.api-sports.io\/football\/teams\/465.png"
+                    },
+                    "start": "2017-07-01",
+                    "end": "2018-04-01"
+                }
+            ]
+        }
+    ]
+}

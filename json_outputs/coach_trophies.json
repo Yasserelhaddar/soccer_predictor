@@ -1,0 +1,43 @@
+{
+    "api": {
+        "results": 6,
+        "trophies": [
+            {
+                "league": "Primera Nacional",
+                "country": "Argentina",
+                "season": "2022",
+                "place": "2nd Place"
+            },
+            {
+                "league": "Primera Nacional",
+                "country": "Argentina",
+                "season": "2010\/2011",
+                "place": "Winner"
+            },
+            {
+                "league": "Primera Divisi\u00f3n",
+                "country": "Venezuela",
+                "season": "2007\/2008",
+                "place": "Winner"
+            },
+            {
+                "league": "Primera Divisi\u00f3n",
+                "country": "Venezuela",
+                "season": "2006\/2007",
+                "place": "2nd Place"
+            },
+            {
+                "league": "Primera Divisi\u00f3n",
+                "country": "Venezuela",
+                "season": "2005\/2006",
+                "place": "2nd Place"
+            },
+            {
+                "league": "Primera Divisi\u00f3n",
+                "country": "Venezuela",
+                "season": "2004\/2005",
+                "place": "Winner"
+            }
+        ]
+    }
+}

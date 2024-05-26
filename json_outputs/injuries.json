@@ -1,0 +1,154 @@
+{
+    "get": "injuries",
+    "parameters": {
+        "fixture": "686308"
+    },
+    "errors": [],
+    "results": 5,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "player": {
+                "id": 161919,
+                "name": "Y. Moukoko",
+                "photo": "https:\/\/media.api-sports.io\/football\/players\/161919.png",
+                "type": "Missing Fixture",
+                "reason": "Shin Injury"
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https:\/\/media.api-sports.io\/football\/teams\/165.png"
+            },
+            "fixture": {
+                "id": 686308,
+                "timezone": "UTC",
+                "date": "2021-04-06T19:00:00+00:00",
+                "timestamp": 1617735600
+            },
+            "league": {
+                "id": 2,
+                "season": 2020,
+                "name": "UEFA Champions League",
+                "country": "World",
+                "logo": "https:\/\/media.api-sports.io\/football\/leagues\/2.png",
+                "flag": null
+            }
+        },
+        {
+            "player": {
+                "id": 18,
+                "name": "J. Sancho",
+                "photo": "https:\/\/media.api-sports.io\/football\/players\/18.png",
+                "type": "Missing Fixture",
+                "reason": "Hip Injury"
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https:\/\/media.api-sports.io\/football\/teams\/165.png"
+            },
+            "fixture": {
+                "id": 686308,
+                "timezone": "UTC",
+                "date": "2021-04-06T19:00:00+00:00",
+                "timestamp": 1617735600
+            },
+            "league": {
+                "id": 2,
+                "season": 2020,
+                "name": "UEFA Champions League",
+                "country": "World",
+                "logo": "https:\/\/media.api-sports.io\/football\/leagues\/2.png",
+                "flag": null
+            }
+        },
+        {
+            "player": {
+                "id": 11,
+                "name": "M. Schmelzer",
+                "photo": "https:\/\/media.api-sports.io\/football\/players\/11.png",
+                "type": "Missing Fixture",
+                "reason": "Knee Injury"
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https:\/\/media.api-sports.io\/football\/teams\/165.png"
+            },
+            "fixture": {
+                "id": 686308,
+                "timezone": "UTC",
+                "date": "2021-04-06T19:00:00+00:00",
+                "timestamp": 1617735600
+            },
+            "league": {
+                "id": 2,
+                "season": 2020,
+                "name": "UEFA Champions League",
+                "country": "World",
+                "logo": "https:\/\/media.api-sports.io\/football\/leagues\/2.png",
+                "flag": null
+            }
+        },
+        {
+            "player": {
+                "id": 20,
+                "name": "A. Witsel",
+                "photo": "https:\/\/media.api-sports.io\/football\/players\/20.png",
+                "type": "Missing Fixture",
+                "reason": "Achilles Tendon Injury"
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https:\/\/media.api-sports.io\/football\/teams\/165.png"
+            },
+            "fixture": {
+                "id": 686308,
+                "timezone": "UTC",
+                "date": "2021-04-06T19:00:00+00:00",
+                "timestamp": 1617735600
+            },
+            "league": {
+                "id": 2,
+                "season": 2020,
+                "name": "UEFA Champions League",
+                "country": "World",
+                "logo": "https:\/\/media.api-sports.io\/football\/leagues\/2.png",
+                "flag": null
+            }
+        },
+        {
+            "player": {
+                "id": 13,
+                "name": "D. Zagadou",
+                "photo": "https:\/\/media.api-sports.io\/football\/players\/13.png",
+                "type": "Missing Fixture",
+                "reason": "Knee Injury"
+            },
+            "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https:\/\/media.api-sports.io\/football\/teams\/165.png"
+            },
+            "fixture": {
+                "id": 686308,
+                "timezone": "UTC",
+                "date": "2021-04-06T19:00:00+00:00",
+                "timestamp": 1617735600
+            },
+            "league": {
+                "id": 2,
+                "season": 2020,
+                "name": "UEFA Champions League",
+                "country": "World",
+                "logo": "https:\/\/media.api-sports.io\/football\/leagues\/2.png",
+                "flag": null
+            }
+        }
+    ]
+}
